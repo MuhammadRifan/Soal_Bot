@@ -1,10 +1,242 @@
-[  
+[
   {
     "id": "1",
     "soal": "Dilihat dari segi tujuannya, negara kepolisian bertujuan ...",
     "per1" : "Meningkatkan kesejahteraan",
     "per2" : "Menjamin keamanan",
     "per3" : "Mempertahankan persatuan",
-    "benar" : "Mewujudkan ketertiban",
+    "benar" : "Mewujudkan ketertiban"
+  },
+  {
+    "id": "2",
+    "soal": "Ciri khas negara kesatuan adalah ...",
+    "per1" : "Warga negara mudah berpindah domisili",
+    "per2" : "Kepala negaranya dipilih oleh rakyat",
+    "per3" : "Kepala negaranya adalah seorang presiden",
+    "benar" : "Kekuasaan asli ada pada pemerintah pusat"
+  },
+  {
+    "id": "3",
+    "soal": "Apabila didasarkan pada ajaran Trias Politika, yang dikenal dengan teori pemisahan kekuasaan negara, maka penetapan APBN menurut UUD 1945 merupakan campur tangan...",
+    "per1" : "Dewan Perwakilan Rakyat dalam kekuasaan presiden",
+    "per2" : "Presiden dalam kekuasaan Mahkamah Agung",
+    "per3" : "DPR dalam kekuasaan Mahkamah Agung",
+    "benar" : "Presiden dalam kekuasaan Dewan Perwakilan Rakya"
+  },
+  {
+    "id": "4",
+    "soal": "Jika dibandingkan dengan kabinet parlementer kelebihan kabinet presidentil adalah dalam hal...",
+    "per1" : "Para menteri bertanggung jawab secara kolektif ",
+    "per2" : "Para meneri dapat diganti sewaktu-waktu",
+    "per3" : "Pemerintahan lebih mencerminkan aspirasi rakyat",
+    "benar" : "Jalannya pemerintahan lebih setabil"
+  },
+  {
+    "id": "5",
+    "soal": "Dibandingkan dengan berbagai norma sosial lainnya, sanksi norma kesopanan bersumber dari...",
+    "per1" : "Lembaga sosial",
+    "per2" : "Masyarakat",
+    "per3" : "Tuhan",
+    "benar" : "Hati nurani"
+  },
+  {
+    "id": "6",
+    "soal": "Berikut ini, hal yang termasuk dalam bidang hukum privat adalah...",
+    "per1" : "Hubungan antara daerah",
+    "per2" : "Pembunuhan berencana",
+    "per3" : "Pelanggaran hukum ",
+    "benar" : "Melanggar perjanjian"
+  },
+  {
+    "id": "7",
+    "soal": " Untuk menarik hati rakyat Indonesia Jepang membentuk dan melantik badan Penyidik Usaha Persiapan kemerdekaan Indonesia pada tanggal...",
+    "per1" : "8 September 1943",
+    "per2" : "29 April 1945",
+    "per3" : "29 Mei 1945 ",
+    "benar" : "14 Agustus 1945"
+  },
+  {
+    "id": "8",
+    "soal": "Norma pertama dalam tata hukum Indonesia adalah...",
+    "per1" : "Pembukaan UUD 1945",
+    "per2" : "Ketetapan MPR",
+    "per3" : "Proklamasi kemerdekaan",
+    "benar" : "Pancasila"
+  },
+  {
+    "id": "9",
+    "soal": " Hubungan antara pancasila dan Prokolamasi Kemerdekaan adalah...",
+    "per1" : "Nilai Pancasila dan Proklamasi Kemerdekaan adalah sama",
+    "per2" : "Teks Proklamasi dirumuskan bersamaan dengan Pancasila",
+    "per3" : "Pancasila menjadi dasar perumusan Teks Proklamasi",
+    "benar" : "Proklamasi Kemerdekaan menjadi dasar berlakunya Pancasila"
+  },
+  {
+    "id": "10",
+    "soal": "Menurut Pasal 14 ayat (1) UUD 1945 hasil perubahan pertama, dalam hal memberi grasi dan rehabilitasi, Presiden perlu memperhatikan pertimbangan dari...",
+    "per1" : "MPR",
+    "per2" : "DPR",
+    "per3" : "Dewan pertimbangan Agung",
+    "benar" : "Mahkamah Agung"
+  },
+  {
+    "id": "11",
+    "soal": "Berdasarkan UUD 1945, anggota Badan Pemeriksa Keuangan dipilih oleh...",
+    "per1" : "DPR dengan memperhatikan usul dari pemerinah",
+    "per2" : "Presiden dengan memperhatikan pendapat DPD",
+    "per3" : "DPR dengan meperhatikan pertimbangan DPD",
+    "benar" : "Presiden dengan memperhatikan pertimbangan DPR"
+  },
+  {
+    "id": "12",
+    "soal": "Anggota Dewan Perwakilan Rakyat menurut UUD 1945 mempunyai hak interpelasi, yakni hak untuk...",
+    "per1" : "Mengawasi jalannya pemerintahan",
+    "per2" : "Melakukan penyelidikan",
+    "per3" : "Melakukan penyelidikan",
+    "benar" : "Bertanya kepada Pemerintah"
+  },
+  {
+    "id": "13",
+    "soal": "Berdasarkan UUD 1945, Mahkamah Agung hanya mempunyai hak menguji formil terhadap peraturan perundang-undangan yang berupa...",
+    "per1" : "Undang-undang ",
+    "per2" : "Peraturan derah",
+    "per3" : "Peraturan pemerintah",
+    "benar" : "Keputusan presiden"
+  },
+  {
+    "id": "14",
+    "soal": "Desentralisasi sebagai salah satu asas yang dianut dalampenyelenggaraan pemerintahan di daerah maknanya adalah...",
+    "per1" : "Pembagian tugas pemerintahan antara pemerintah pusat dan pemerintah daerah",
+    "per2" : "Penugasan dari pemerintah kepada daerah untuk melaksanakan tugas tertentu",
+    "per3" : "Penyerahan kewenangan kepada derah untuk mengurus rumah tangganya sendiri",
+    "benar" : "Pendelegasian kewenangan dari pemerintah pusat kepada pemerintah daerah"
+  },
+  {
+    "id": "15",
+    "soal": "Salah satu hal yang menjadi kewenangan pemerintah pusat menurut Undang-undang No.22 tahun 1999 tentang Otonomi Daerah adalah...",
+    "per1" : "Industri dan perdagangan",
+    "per2" : "Penanaman modal",
+    "per3" : "Pendidikan dan kebudayaan",
+    "benar" : "Pemberdayaan sumber daya alam"
+  },
+  {
+    "id": "16",
+    "soal": "Ciri utama sistem ekonomi kerakyatan adalah penegakan prinsip keadilan dan demokrasi disertai kepedulian...",
+    "per1" : "Terhadap pertahanan nasional",
+    "per2" : "Terhadap peningkatan ekspor",
+    "per3" : "Menghadapi globalisasi",
+    "benar" : "Terhadap yang lemah"
+  },
+  {
+    "id": "17",
+    "soal": "Untuk menanggulangi banyaknya tenaga kerja yang menganggur dan setengah menganggur, salah satu jalan keluarnya ialah dengan...",
+    "per1" : "Meminta bantuan luar negeri",
+    "per2" : "Memperbaiki sektor industri",
+    "per3" : "Memanfaatkan sumber daya alam",
+    "benar" : "Memperluas kesempatan kerja"
+  },
+  {
+    "id": "18",
+    "soal": "Munculnya kesadaran berbangsa di kalangan penduduk Indonesia didorong mula-mula oleh...",
+    "per1" : "Para ulama",
+    "per2" : "Kaum intlektual Belanda",
+    "per3" : "Para musyafir",
+    "benar" : "Kaum intlektual Indonesia"
+  },
+  {
+    "id": "19",
+    "soal": "Salah satu sumbangan yang diberikan Sumpah Pemuda adalah...",
+    "per1" : "Saling menghargai di kalangan suku-suku bangsa",
+    "per2" : "Memberi penghargaan kepada tradisi etnik",
+    "per3" : "Kesadaran akan kemampuan bangsa sendiri",
+    "benar" : "Meningkatkan kesadaran berbangsa"
+  },
+  {
+    "id": "20",
+    "soal": "Menurut Undang-undang Sistem Pendidikan Nasional, penyelenggaraan pendidikan dilaksanakan melalui jalur dan jenjang yang tersedia. Yang dimaksud jalur pendidikan adalah jalur pendidikan...",
+    "per1" : "Sekolah dan luar sekolah",
+    "per2" : "Dasar, menengah, dan tinggi",
+    "per3" : "Umum dan kedinasan",
+    "benar" : "Formal dan informal "
+  },
+  {
+    "id": "21",
+    "soal": "Berdasarkan UU tentang Pemerintahan Daerah (UU No. 22 tahun 1999), pemerintahan Daerah yang terkecil adalah desa, pemerintahan desa terdiri atas pemerinahan desa dan...",
+    "per1" : "Badan konsulasi desa",
+    "per2" : "Badan permusyawaratan desa",
+    "per3" : "Badan rembug desa",
+    "benar" : "Badan perwakilan desa"
+  },
+  {
+    "id": "22",
+    "soal": "Pada dasarnya Indonesia adalah salah satu tujuan wisatwan mancanegara karena Indonesia memiliki selain sumber daya keragaman budaya dan seni juga memiliki...",
+    "per1" : "Penduduk yang ramah",
+    "per2" : "Letak yang strategis",
+    "per3" : "Banyak pulau",
+    "benar" : "Alam/pesona alam"
+  },
+  {
+    "id": "23",
+    "soal": "Penyelenggaraan pemerintah dengan otonomi berdasarkan pada asas...",
+    "per1" : "Dekonsentrasi",
+    "per2" : "Sentralisasi",
+    "per3" : "Medebewin",
+    "benar" : "Desentralisasi"
+  },
+  {
+    "id": "24",
+    "soal": "Tujuan utama pendidikan menurut GBHN adalah",
+    "per1" : "Memberikan ketrampilan kepada peserta didik",
+    "per2" : "Agar peserta didik menjadi orang berguna di masyarakat",
+    "per3" : "Membentuk kepribadian yang bertaqwa",
+    "benar" : "Menciptakan masyarakat Indonesia yang berkualitas tinggi"
+  },
+  {
+    "id": "25",
+    "soal": "Rencana pembangunan tahunan merupakan bentuk rinci dari...",
+    "per1" : "Propenas",
+    "per2" : "APBN",
+    "per3" : "Repelita",
+    "benar" : "RAPBN"
+  },
+  {
+    "id": "26",
+    "soal": "Presiden berkewajiban umtuk mengerahkan semua potensi dan kekuatan pemerintah dalam melaksanakan dan mengendalikan pembangunan nasional. Amanat ini tertuang pada...",
+    "per1" : "UUD",
+    "per2" : "MPR",
+    "per3" : "DPR",
+    "benar" : "Garis-garis Besar Haluan Negara"
+  },
+  {
+    "id": "27",
+    "soal": "Program Pembangunan Nasional yangdituangkan dalamUndang-undang Nomor 25 tahun 2000 adalah Propenas untuk tahun...",
+    "per1" : "2000 – 2010",
+    "per2" : "2000 – 2018",
+    "per3" : "2000 – 2005",
+    "benar" : "2000 – 2004"
+  },
+  {
+    "id": "28",
+    "soal": "Amanat GBHN di bidang hukum antara lain ….",
+    "per1" : "Pembentukan badan peradilan yang transparan",
+    "per2" : "Proses peradilan terhadap pelanggaran hukum dan HAM",
+    "per3" : "Proses peradilan yang berimbang",
+    "benar" : "Kesejahteraan yang memadai bagi penyelenggara keadilan"
+  },
+  {
+    "id": "29",
+    "soal": "Upaya pendidikan politik secara intensif dan komprehensif dilakukan terutama untuk...",
+    "per1" : "Menghindari perbedaan pandangan politik yang tajam",
+    "per2" : "Mewujudkan kesatuan dalam berpolitik",
+    "per3" : "Mencegah masuknya budaya politik asing",
+    "benar" : "Mengembangkan budaya potitik yang demokratis"
+  },
+  {
+    "id": "30",
+    "soal": "Arah kebijakan pembangunan bidang ekonomi antara lain menghindari terjadi struktur pasar monopolistik, karena hal ini sangat merugikan bagi...",
+    "per1" : "Peningkatan pendapatan pajak",
+    "per2" : "Pertumbuhan usaha koperasi",
+    "per3" : "Perkembangan usaha pertanian",
+    "benar" : "Terwujudnya persaingan sehat"
   }
 ]
