@@ -1,4 +1,4 @@
-[
+{  
   {
     "id": "1",
     "soal": "Dilihat dari segi tujuannya, negara kepolisian bertujuan ...",
@@ -21,7 +21,7 @@
     "per1" : "Dewan Perwakilan Rakyat dalam kekuasaan presiden",
     "per2" : "Presiden dalam kekuasaan Mahkamah Agung",
     "per3" : "DPR dalam kekuasaan Mahkamah Agung",
-    "benar" : "Presiden dalam kekuasaan Dewan Perwakilan Rakya",
+    "benar" : "Presiden dalam kekuasaan Dewan Perwakilan Rakyat",
   },
   {
     "id": "4",
@@ -239,4 +239,4 @@
     "per3" : "Perkembangan usaha pertanian",
     "benar" : "Terwujudnya persaingan sehat",
   }
-]
+}
